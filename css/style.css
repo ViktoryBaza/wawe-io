@@ -87,6 +87,7 @@ body{
     background-image:url(../img/Group.svg);
     background-size:auto 800px;
     height: 800px;
+    background-attachment: fixed;
 }
 .header-content {
 }
@@ -159,7 +160,8 @@ body{
 }
 .serf__textblock__column {
     font-weight: 300;
-    font-size: 14px;
+    margin: 20px 0;
+    font-size: 16px;
     width: 450px;
     height: 70px;
     margin-bottom: 30px;
@@ -252,6 +254,7 @@ body{
     height: 350px;
 }
 .vershy-textcontent-colomn__text {
+    font-size: 16px;
 }
 .vershy-content__img {
 }
